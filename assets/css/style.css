@@ -2635,14 +2635,14 @@ nav > div a.nav-item.nav-link:focus
 /*-- Section Padding -- */
 /* line 719, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 .section-padding2 {
-  padding-top: 200px;
+  padding-top: 70px;
   padding-bottom: 200px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   /* line 719, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
   .section-padding2 {
-    padding-top: 200px;
+    padding-top: 70px;
     padding-bottom: 200px;
   }
 }
@@ -2650,7 +2650,7 @@ nav > div a.nav-item.nav-link:focus
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   /* line 719, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
   .section-padding2 {
-    padding-top: 200px;
+    padding-top: 70px;
     padding-bottom: 200px;
   }
 }
@@ -2658,7 +2658,7 @@ nav > div a.nav-item.nav-link:focus
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /* line 719, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
   .section-padding2 {
-    padding-top: 100px;
+    padding-top: 70px;
     padding-bottom: 100px;
   }
 }
